@@ -75,7 +75,7 @@
   color: aliceblue;
   flex-direction: row;
   justify-content: space-between;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
 
   /* text-align: center; */
   /* display: grid; */
